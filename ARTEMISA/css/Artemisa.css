@@ -1,0 +1,74 @@
+
+/* LOGO-MENU */
+@font-face {
+    font-family: 'CAESAR';
+    src: url("../Fuente/CAESAR.TTF");
+}
+.text-CAESAR{
+    font-family: 'CAESAR';
+    font-size: 20px;
+    list-style: none;
+}
+.gh{
+    padding: 0;
+}
+.dropdown-item{
+    color: #3f8c12;
+}
+.nav-link {
+    color: #3f8c12;
+}
+
+.nav-link:hover{
+    color: #9ACD32;
+}
+.dropdown-item:hover{
+    color: #9ACD32; 
+}
+.artemisa{
+    width: 100px;
+    height: 100px;
+}
+/* FIN */
+.fondo{
+    background-color: #83F97B;
+}
+@font-face{
+    font-family: 'GOTHIC';
+    src: url("../Fuente/GOTHIC.TTF");
+}
+
+.Titulo{
+    font-family: 'CAESAR';
+    font-size: 28px;
+    color: #3f8c12;
+}
+.Texto{
+    font-family: 'GOTHIC';
+    font-size: 20px;
+    text-align: justify;
+}
+.objetivo-proyecto{
+    background-color:white ;
+    border-radius: 10px;
+}
+
+hr{
+ width: 99%;
+}
+
+.FACEBOOK{
+    width: 99px;
+}
+.Instagram{
+    width:85px;
+}
+
+.redes{
+    height: 50px;
+    width: 237px;
+}
+
+.Diviertete{
+    background-color:#9ACD32;
+}
